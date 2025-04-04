@@ -37,4 +37,4 @@ I am a **QA** passionate about **software quality**, **test automation** and **b
 ---
 
 #### 📖 Available in other languages:  
-[![Français](https://cdn-icons-png.flaticon.com/24/197/197560.png)](https://github.com/Kaiuschy/KaiuschyFR/) [![English](https://cdn-icons-png.flaticon.com/24/197/197374.png)](https://github.com/Kaiuschy/KaiuschyEN) [![Português](https://cdn-icons-png.flaticon.com/24/197/197386.png)](https://github.com/Kaiuschy/KaiuschyPT)  
+[![Français](https://cdn-icons-png.flaticon.com/24/197/197560.png)](https://github.com/Kaiuschy/KaiuschyFR/) [![Português](https://cdn-icons-png.flaticon.com/24/197/197386.png)](https://github.com/Kaiuschy/KaiuschyPT) [![English](https://cdn-icons-png.flaticon.com/24/197/197374.png)](https://github.com/Kaiuschy/KaiuschyEN)   
